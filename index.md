@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+O aplicativo desenvolvido visa informar as condições das ondas para praticantes de esportes aquáticos, para todos os estados litorâneos do Brasil.
+### O projeto e sua motivação
+Alguns esportes necessitam de algumas condições climáticas para serem praticados, e no caso dos esportes aquáticos, é essencial saber como estão as ondas, no caso dos surfistas, quanto maiores as ondas, maior é a emoção, já os nadadores preferem um mar calmo para praticar se esporte.
+O aplicativo foi desenvolvido com React-Native e usa o Firebase Authentication para gerenciar e cadastrar os usuários. As informações são usadas são fornecidas por uma API.
 
-You can use the [editor on GitHub](https://github.com/felipefcosta77/Altas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Melhorias futuras 
+- Informar as condições das ondas conforme a localização do usuário
+-Permitir o usuário adicionar amigos e avisá-los através de notificações das condições das ondas.
+-O usuário ter a possibilidade de adicionar seus locais favoritos.
+-Informar as previsões dos próximos 5 dias.
+-Possibilitar o usuário vender seus equipamentos usados.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipefcosta77/Altas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Monetização 
+-Propaganda
+-Cobrar uma pequena taxa por cada negócio feito através do app ( caso seja aplicado o espaço para negociação de equipamentos).
