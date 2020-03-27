@@ -1,3 +1,5 @@
+#### Altas - Aplicativo de previsão das ondas
+
 O aplicativo desenvolvido visa informar as condições das ondas para praticantes de esportes aquáticos, para todos os estados litorâneos do Brasil.
 ### O projeto e sua motivação
 Alguns esportes necessitam de algumas condições climáticas para serem praticados, e no caso dos esportes aquáticos, é essencial saber como estão as ondas, no caso dos surfistas, quanto maiores as ondas, maior é a emoção, já os nadadores preferem um mar calmo para praticar seu esporte.
