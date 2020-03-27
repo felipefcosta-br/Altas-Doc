@@ -1,4 +1,4 @@
-#### Altas - Aplicativo de previsão das ondas
+### Altas - Aplicativo de previsão das ondas
 
 O aplicativo desenvolvido visa informar as condições das ondas para praticantes de esportes aquáticos, para todos os estados litorâneos do Brasil.
 ### O projeto e sua motivação
