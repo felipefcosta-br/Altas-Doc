@@ -4,11 +4,11 @@ Alguns esportes necessitam de algumas condições climáticas para serem pratica
 O aplicativo foi desenvolvido com React-Native e usa o Firebase Authentication para gerenciar e cadastrar os usuários. As informações são usadas são fornecidas por uma API.
 
 ### Melhorias futuras 
-- Informar as condições das ondas conforme a localização do usuário
--Permitir o usuário adicionar amigos e avisá-los através de notificações das condições das ondas.
--O usuário ter a possibilidade de adicionar seus locais favoritos.
--Informar as previsões dos próximos 5 dias.
--Possibilitar o usuário vender seus equipamentos usados.
+- Informar as condições das ondas conforme a localização do usuário.
+- Permitir o usuário adicionar amigos e avisá-los através de notificações das condições das ondas.
+- O usuário ter a possibilidade de adicionar seus locais favoritos.
+- Informar as previsões dos próximos 5 dias.
+- Possibilitar o usuário vender seus equipamentos usados.
 
 ### Monetização 
 -Propaganda
